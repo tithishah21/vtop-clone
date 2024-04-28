@@ -1,0 +1,89 @@
+.navbar {
+    display: flex;
+    background-color: rgb(60, 91, 171);
+    width: 1400px;
+    height: 40px;
+    color: white;
+    justify-content:left;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    align-items: center;
+}
+.symone{
+    padding-right: 20px;
+    background-color: rgb(60, 91, 171);
+    color: white;
+    border: none;
+}
+.vit {
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 80px;
+    font-weight: bolder;
+    justify-content: center;
+}
+.symtwo {
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.symthree {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.symfour {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.reg {
+    padding-left: 650px;
+}
+.okayy {
+    display: flex;
+    background-color: #cccccc;
+    justify-content: space-evenly;
+}
+.hmm {
+    padding-left: 17px;
+    width:48px;
+    border-right: 3px grey;
+    height: 1000px;
+    background-color: white;
+}
+.mainn {
+    background-color: rgb(243, 243, 243);
+    height: 430px;
+    width: 1355px;
+    padding-top: 30px;
+}
+.semester {
+    height: 35px;
+    width: 1100px;
+    border-radius: 3px;
+    border-color: #cccccc;
+}
+.course {
+    height: 35px;
+    width: 1100px;
+    border-radius: 3px;
+    border-color: #cccccc;
+}
+.slot {
+    height: 35px;
+    width: 1100px;
+    border-radius: 3px;
+    border-color: #cccccc;
+}
+.fac {
+    height: 35px;
+    width: 1100px;
+    border-radius: 3px;
+    border-color: #cccccc;
+}
+.cont {
+    margin-top: 30px;
+    border-radius: 3px;
+    border-color: #cccccc;
+    height: 35px;
+    width: 400px;
+}

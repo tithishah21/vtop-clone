@@ -1,0 +1,55 @@
+.main {
+    display: flex;
+}
+.menu {
+    height: fit-content;
+    width: 400px;
+    border: none;
+}
+.vtopmenu {
+    background-color: rgb(60, 91, 171);
+    width: 400px;
+    height: 40px;
+    color: white;
+    justify-content: center;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.sym {
+    padding-left: 380px;
+    padding-bottom: 20px;
+}
+.list {
+    background-color: white;
+    justify-content: space-evenly;
+    padding-left: 30px;
+}
+.useless{
+    background-color: rgb(50, 76, 141);
+    width: 1200px;
+    height: 40px;
+    color: white;
+    justify-content: center;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.reg {
+    padding-left: 710px;
+    font-size: 20px;
+}
+.uselesstwo {
+    background-color: rgba(128, 123, 123, 0.189);
+    height: 900px;
+    width: 1200px;
+}
+.cpp {
+border: none;
+padding-left: 100px;
+}
+.cont {
+    margin-top: 30px;
+    border-radius: 3px;
+    border-color: #cccccc;
+    height: 35px;
+    width: 340px;
+}

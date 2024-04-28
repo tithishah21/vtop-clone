@@ -1,0 +1,131 @@
+.navbar {
+    display: flex;
+    background-color: rgb(60, 91, 171);
+    width: 1400px;
+    height: 40px;
+    color: white;
+    justify-content:left;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    align-items: center;
+}
+.symone{
+    padding-right: 20px;
+    background-color: rgb(60, 91, 171);
+    color: white;
+    border: none;
+}
+.vit {
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 80px;
+    font-weight: bolder;
+    justify-content: center;
+}
+.symtwo {
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.symthree {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.symfour {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.reg {
+    padding-left: 650px;
+}
+.okayy {
+    display: flex;
+    background-color: #cccccc;
+    justify-content: space-evenly;
+}
+.hmm {
+    padding-left: 17px;
+    width:48px;
+    border-right: 3px grey;
+    height: 1030px;
+    background-color: white;
+}
+.mainn {
+    background-color: rgb(254, 247, 247);
+    height: 1000px;
+    width: 1355px;
+    padding-top: 30px;
+}
+.mainone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+.oo {
+    font-size: 40px;
+}
+.butt{
+    background-color: rgb(36, 36, 245);
+    color:white;
+    margin-left: 1000px;
+    height: 40px;
+    width: 200px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.head {
+    background-color: rgb(69, 126, 212);
+    width: 1200px;
+    height: 50px;
+    color: white;
+}
+.cg {
+    width: 50px;
+    padding-left: 70px;
+    padding-right: 66px;
+}
+.cc {
+    width: 50px;
+    padding-left: 70px;
+    padding-right: 67px;
+}
+.ct {
+    width: 50px;
+    padding-left: 70px;
+    padding-right: 67px;
+}
+.cty {
+    width: 50px;
+    padding-left: 70px;
+    padding-right: 67px;
+}
+.ci {
+    width: 50px;
+    padding-left: 70px;
+    padding-right: 67px;
+}
+.s {
+    width: 50px;
+    padding-left: 70px;
+    padding-right: 67px;
+}
+.f {
+    width: 50px;
+    padding-left: 70px;
+    padding-right: 69px;
+}
+.tt {
+    width:50px;
+    padding-left: 105px;
+    padding-right: 105px;
+}
+table {
+    border: #cccccc;
+}
+.data {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
